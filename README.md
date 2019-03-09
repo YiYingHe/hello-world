@@ -1,2 +1,3 @@
 # hello-world
-starter
+
+Hi! First day to be here with excitement and curiosity.
